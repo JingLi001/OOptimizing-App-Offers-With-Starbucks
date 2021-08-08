@@ -47,8 +47,8 @@ Event log (306648 events x 4 fields)
 
 ## Results
 
-I have documented all the findings from the result of this project and wrote a post and published it on Medium.Click [here]
-(https://jingli11.medium.com/optimizing-app-offers-with-starbucks-e8a3d76028d4) to take you there.
+I have documented all the findings from the result of this project and wrote a post and published it on Medium.Click [here](https://jingli11.medium.com/optimizing-app-offers-with-starbucks-e8a3d76028d4) to take you there.
+
 
 ## Licensing <a name="licensing"></a>
 
